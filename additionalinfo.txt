@@ -1,0 +1,14 @@
+﻿#Created by Tanzim Amin
+
+
+(=draft); In this project, I will be building a Python Project to Scrape YouTube data using YouTube Data API. Using that particular YouTube API, I will be extracting the data and then loading this data into a Python Pandas DataFrame and then will proceed to analyze this data. Finally, from all that I will build a simple visualization from this data using the Python Seaborn library.
+
+
+* i’ll be using Jupyter Notebook to write my python code.
+* new virtual environment Anaconda
+* first create a YouTube API Key which will be our credential to access youtube data.
+* install google-api-python-client (the google python package required to access youtube api data), as well as install pandas and seaborn.
+* first part: extract channel details
+* second part: extract video details from a particular channel.
+* analyze all the data by loading it into a pandas data frame.
+* then create some simple visualization using the Seaborn python library.
